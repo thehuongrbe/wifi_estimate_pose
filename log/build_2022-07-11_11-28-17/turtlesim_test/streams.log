@@ -1,0 +1,37 @@
+[0.829s] Invoking command in '/home/nth/ros2_ws/src/turtlesim_test': PYTHONPATH=/home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/nth/ros2_ws/build/turtlesim_test/build install --prefix /home/nth/ros2_ws/install/turtlesim_test --record /home/nth/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
+[1.009s] running egg_info
+[1.010s] creating ../../build/turtlesim_test/turtlesim_test.egg-info
+[1.010s] writing ../../build/turtlesim_test/turtlesim_test.egg-info/PKG-INFO
+[1.010s] writing dependency_links to ../../build/turtlesim_test/turtlesim_test.egg-info/dependency_links.txt
+[1.010s] writing entry points to ../../build/turtlesim_test/turtlesim_test.egg-info/entry_points.txt
+[1.010s] writing requirements to ../../build/turtlesim_test/turtlesim_test.egg-info/requires.txt
+[1.010s] writing top-level names to ../../build/turtlesim_test/turtlesim_test.egg-info/top_level.txt
+[1.012s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[1.044s] reading manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[1.045s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[1.045s] running build
+[1.045s] running build_py
+[1.045s] creating /home/nth/ros2_ws/build/turtlesim_test/build
+[1.045s] creating /home/nth/ros2_ws/build/turtlesim_test/build/lib
+[1.045s] creating /home/nth/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[1.045s] copying turtlesim_test/__init__.py -> /home/nth/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[1.045s] copying turtlesim_test/turtlesim_pub.py -> /home/nth/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test
+[1.045s] running install
+[1.046s] running install_lib
+[1.047s] creating /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test
+[1.047s] copying /home/nth/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/__init__.py -> /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test
+[1.047s] copying /home/nth/ros2_ws/build/turtlesim_test/build/lib/turtlesim_test/turtlesim_pub.py -> /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test
+[1.048s] byte-compiling /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test/__init__.py to __init__.cpython-38.pyc
+[1.049s] byte-compiling /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test/turtlesim_pub.py to turtlesim_pub.cpython-38.pyc
+[1.049s] running install_data
+[1.050s] creating /home/nth/ros2_ws/install/turtlesim_test/share/ament_index
+[1.050s] creating /home/nth/ros2_ws/install/turtlesim_test/share/ament_index/resource_index
+[1.050s] creating /home/nth/ros2_ws/install/turtlesim_test/share/ament_index/resource_index/packages
+[1.050s] copying resource/turtlesim_test -> /home/nth/ros2_ws/install/turtlesim_test/share/ament_index/resource_index/packages
+[1.050s] copying package.xml -> /home/nth/ros2_ws/install/turtlesim_test/share/turtlesim_test
+[1.050s] running install_egg_info
+[1.053s] Copying ../../build/turtlesim_test/turtlesim_test.egg-info to /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test-0.0.0-py3.8.egg-info
+[1.053s] running install_scripts
+[1.074s] Installing turlesim_pub script to /home/nth/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[1.074s] writing list of installed files to '/home/nth/ros2_ws/build/turtlesim_test/install.log'
+[1.106s] Invoked command in '/home/nth/ros2_ws/src/turtlesim_test' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/nth/ros2_ws/build/turtlesim_test/build install --prefix /home/nth/ros2_ws/install/turtlesim_test --record /home/nth/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed

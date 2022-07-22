@@ -1,0 +1,52 @@
+[0.017s] Invoking command in '/home/nth/ros2_ws/build/action_cpp': CMAKE_PREFIX_PATH=/home/nth/ros2_ws/install/action_tutorials_interfaces:/home/nth/ros2_ws/install/tf2_cpp:/home/nth/ros2_ws/install/service_cpp:/home/nth/ros2_ws/install/test_interfaces:/home/nth/ros2_ws/install/ros2_tutorial:/home/nth/ros2_ws/install/action_cpp:/home/nth/rtc_ws/install/turtlebot3:/home/nth/rtc_ws/install/turtlebot3_bringup:/home/nth/rtc_ws/install/turtlebot3_node:/home/nth/rtc_ws/install/turtlebot3_navigation2:/home/nth/rtc_ws/install/turtlebot3_msgs:/home/nth/rtc_ws/install/turtlebot3_description:/home/nth/rtc_ws/install/turtlebot3_cartographer:/home/nth/rtc_ws/install/nav2_system_tests:/home/nth/rtc_ws/install/nav2_bringup:/home/nth/rtc_ws/install/navigation2:/home/nth/rtc_ws/install/smac_planner:/home/nth/rtc_ws/install/rplidar_ros2:/home/nth/rtc_ws/install/robot_localization:/home/nth/rtc_ws/install/nav2_dwb_controller:/home/nth/rtc_ws/install/nav2_controller:/home/nth/rtc_ws/install/dwb_plugins:/home/nth/rtc_ws/install/dwb_critics:/home/nth/rtc_ws/install/dwb_core:/home/nth/rtc_ws/install/nav_2d_utils:/home/nth/rtc_ws/install/dwb_msgs:/home/nth/rtc_ws/install/nav_2d_msgs:/home/nth/rtc_ws/install/nav2_waypoint_follower:/home/nth/rtc_ws/install/nav2_regulated_pure_pursuit_controller:/home/nth/rtc_ws/install/nav2_recoveries:/home/nth/rtc_ws/install/nav2_planner:/home/nth/rtc_ws/install/nav2_navfn_planner:/home/nth/rtc_ws/install/nav2_core:/home/nth/rtc_ws/install/costmap_queue:/home/nth/rtc_ws/install/nav2_costmap_2d:/home/nth/rtc_ws/install/nav2_voxel_grid:/home/nth/rtc_ws/install/nav2_rviz_plugins:/home/nth/rtc_ws/install/nav2_map_server:/home/nth/rtc_ws/install/nav2_lifecycle_manager:/home/nth/rtc_ws/install/nav2_bt_navigator:/home/nth/rtc_ws/install/nav2_behavior_tree:/home/nth/rtc_ws/install/nav2_amcl:/home/nth/rtc_ws/install/nav2_util:/home/nth/rtc_ws/install/nav2_msgs:/home/nth/rtc_ws/install/nav2_common:/home/nth/rtc_ws/install/ld08_driver:/home/nth/rtc_ws/install/dynamixel_sdk_examples:/home/nth/rtc_ws/install/dynamixel_sdk_custom_interfaces:/home/nth/rtc_ws/install/dynamixel_sdk:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy LD_LIBRARY_PATH=/home/nth/ros2_ws/install/action_tutorials_interfaces/lib:/home/nth/ros2_ws/install/test_interfaces/lib:/home/nth/ros2_ws/install/action_cpp/lib:/home/nth/rtc_ws/install/turtlebot3_msgs/lib:/home/nth/rtc_ws/install/smac_planner/lib:/home/nth/rtc_ws/install/robot_localization/lib:/home/nth/rtc_ws/install/nav2_controller/lib:/home/nth/rtc_ws/install/dwb_plugins/lib:/home/nth/rtc_ws/install/dwb_critics/lib:/home/nth/rtc_ws/install/dwb_core/lib:/home/nth/rtc_ws/install/nav_2d_utils/lib:/home/nth/rtc_ws/install/dwb_msgs/lib:/home/nth/rtc_ws/install/nav_2d_msgs/lib:/home/nth/rtc_ws/install/nav2_waypoint_follower/lib:/home/nth/rtc_ws/install/nav2_regulated_pure_pursuit_controller/lib:/home/nth/rtc_ws/install/nav2_recoveries/lib:/home/nth/rtc_ws/install/nav2_planner/lib:/home/nth/rtc_ws/install/nav2_navfn_planner/lib:/home/nth/rtc_ws/install/costmap_queue/lib:/home/nth/rtc_ws/install/nav2_costmap_2d/lib:/home/nth/rtc_ws/install/nav2_voxel_grid/lib:/home/nth/rtc_ws/install/nav2_rviz_plugins/lib:/home/nth/rtc_ws/install/nav2_map_server/lib:/home/nth/rtc_ws/install/nav2_lifecycle_manager/lib:/home/nth/rtc_ws/install/nav2_bt_navigator/lib:/home/nth/rtc_ws/install/nav2_behavior_tree/lib:/home/nth/rtc_ws/install/nav2_amcl/lib:/home/nth/rtc_ws/install/nav2_util/lib:/home/nth/rtc_ws/install/nav2_msgs/lib:/home/nth/rtc_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/nth/rtc_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib PYTHONPATH=/home/nth/ros2_ws/install/action_tutorials_interfaces/lib/python3.8/site-packages:/home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages:/home/nth/ros2_ws/install/test_interfaces/lib/python3.8/site-packages:/home/nth/ros2_ws/install/service_test/lib/python3.8/site-packages:/home/nth/rtc_ws/install/turtlebot3_teleop/lib/python3.8/site-packages:/home/nth/rtc_ws/install/turtlebot3_example/lib/python3.8/site-packages:/home/nth/rtc_ws/install/turtlebot3_msgs/lib/python3.8/site-packages:/home/nth/rtc_ws/install/robot_localization/lib/python3.8/site-packages:/home/nth/rtc_ws/install/dwb_msgs/lib/python3.8/site-packages:/home/nth/rtc_ws/install/nav_2d_msgs/lib/python3.8/site-packages:/home/nth/rtc_ws/install/nav2_msgs/lib/python3.8/site-packages:/home/nth/rtc_ws/install/nav2_gazebo_spawner/lib/python3.8/site-packages:/home/nth/rtc_ws/install/nav2_common/lib/python3.8/site-packages:/home/nth/rtc_ws/install/dynamixel_sdk_custom_interfaces/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/cmake /home/nth/ros2_ws/src/action_cpp -DCMAKE_INSTALL_PREFIX=/home/nth/ros2_ws/install/action_cpp
+[0.071s] -- The C compiler identification is GNU 9.4.0
+[0.124s] -- The CXX compiler identification is GNU 9.4.0
+[0.130s] -- Check for working C compiler: /usr/bin/cc
+[0.196s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.197s] -- Detecting C compiler ABI info
+[0.268s] -- Detecting C compiler ABI info - done
+[0.277s] -- Detecting C compile features
+[0.277s] -- Detecting C compile features - done
+[0.279s] -- Check for working CXX compiler: /usr/bin/c++
+[0.354s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.355s] -- Detecting CXX compiler ABI info
+[0.432s] -- Detecting CXX compiler ABI info - done
+[0.447s] -- Detecting CXX compile features
+[0.448s] -- Detecting CXX compile features - done
+[0.454s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.492s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.493s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.690s] -- Found action_tutorials_interfaces: 0.0.0 (/home/nth/ros2_ws/install/action_tutorials_interfaces/share/action_tutorials_interfaces/cmake)
+[0.736s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.747s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.863s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.889s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.968s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.078s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.128s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.131s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.132s] -- Looking for pthread.h
+[1.227s] -- Looking for pthread.h - found
+[1.227s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.316s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.316s] -- Looking for pthread_create in pthreads
+[1.392s] -- Looking for pthread_create in pthreads - not found
+[1.392s] -- Looking for pthread_create in pthread
+[1.459s] -- Looking for pthread_create in pthread - found
+[1.460s] -- Found Threads: TRUE  
+[1.585s] -- Found rclcpp_action: 2.4.1 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[1.614s] -- Found rclcpp_components: 2.4.1 (/opt/ros/foxy/share/rclcpp_components/cmake)
+[1.685s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.781s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.782s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.783s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/nth/ros2_ws/src/action_cpp/include>
+[1.783s] -- Configured cppcheck exclude dirs and/or files: 
+[1.784s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.784s] -- Configured cpplint exclude dirs and/or files: 
+[1.785s] -- Added test 'lint_cmake' to check CMake code style
+[1.786s] -- Added test 'uncrustify' to check C / C++ code style
+[1.786s] -- Configured uncrustify additional arguments: 
+[1.786s] -- Added test 'xmllint' to check XML markup files
+[1.789s] -- Configuring done
+[1.813s] -- Generating done
+[1.815s] -- Build files have been written to: /home/nth/ros2_ws/build/action_cpp

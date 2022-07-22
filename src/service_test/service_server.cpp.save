@@ -1,0 +1,10 @@
+#include "rclpp/rclpp.hpp"
+#include "test_interfaces/srv/SumInt.hpp"
+#include <memory>
+
+void add(const std::shared_ptr<test_interfaces::srv::SumInt::Request> request,
+	std::shared_ptr<test_interfaces::srv::SumInt::Response> response){
+	response->sum = request->a + reqquest->b;
+	RCLPP_INFO(rclpp::get_looger("rclcpp"),"request 
+",request->a, request->b)
+}

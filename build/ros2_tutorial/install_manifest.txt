@@ -1,0 +1,15 @@
+/home/nth/ros2_ws/install/ros2_tutorial/share/ament_index/resource_index/package_run_dependencies/ros2_tutorial
+/home/nth/ros2_ws/install/ros2_tutorial/share/ament_index/resource_index/parent_prefix_path/ros2_tutorial
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/ament_prefix_path.sh
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/ament_prefix_path.dsv
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/path.sh
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/path.dsv
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.bash
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.sh
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.zsh
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.dsv
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/package.dsv
+/home/nth/ros2_ws/install/ros2_tutorial/share/ament_index/resource_index/packages/ros2_tutorial
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/cmake/ros2_tutorialConfig.cmake
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/cmake/ros2_tutorialConfig-version.cmake
+/home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/package.xml

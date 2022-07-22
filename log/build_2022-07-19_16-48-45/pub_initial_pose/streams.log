@@ -1,0 +1,38 @@
+[1.688s] Invoking command in '/home/nth/ros2_ws/src/pub_initial_pose': PYTHONPATH=/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pub_initial_pose build --build-base /home/nth/ros2_ws/build/pub_initial_pose/build install --prefix /home/nth/ros2_ws/install/pub_initial_pose --record /home/nth/ros2_ws/build/pub_initial_pose/install.log --single-version-externally-managed
+[1.919s] running egg_info
+[1.925s] creating ../../build/pub_initial_pose/pub_initial_pose.egg-info
+[1.925s] writing ../../build/pub_initial_pose/pub_initial_pose.egg-info/PKG-INFO
+[1.925s] writing dependency_links to ../../build/pub_initial_pose/pub_initial_pose.egg-info/dependency_links.txt
+[1.925s] writing entry points to ../../build/pub_initial_pose/pub_initial_pose.egg-info/entry_points.txt
+[1.925s] writing requirements to ../../build/pub_initial_pose/pub_initial_pose.egg-info/requires.txt
+[1.925s] writing top-level names to ../../build/pub_initial_pose/pub_initial_pose.egg-info/top_level.txt
+[1.926s] writing manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[1.956s] reading manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[1.956s] writing manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[1.956s] running build
+[1.956s] running build_py
+[1.956s] creating /home/nth/ros2_ws/build/pub_initial_pose/build
+[1.956s] creating /home/nth/ros2_ws/build/pub_initial_pose/build/lib
+[1.957s] creating /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose
+[1.957s] copying pub_initial_pose/__init__.py -> /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose
+[1.957s] copying pub_initial_pose/publisher.py -> /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose
+[1.957s] running install
+[1.957s] running install_lib
+[1.957s] creating /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose
+[1.957s] copying /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose/__init__.py -> /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose
+[1.958s] copying /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose/publisher.py -> /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose
+[1.958s] byte-compiling /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose/__init__.py to __init__.cpython-38.pyc
+[1.962s] byte-compiling /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose/publisher.py to publisher.cpython-38.pyc
+[1.963s] Sorry: IndentationError: expected an indented block (publisher.py, line 31)
+[1.963s] running install_data
+[1.963s] creating /home/nth/ros2_ws/install/pub_initial_pose/share/ament_index
+[1.963s] creating /home/nth/ros2_ws/install/pub_initial_pose/share/ament_index/resource_index
+[1.963s] creating /home/nth/ros2_ws/install/pub_initial_pose/share/ament_index/resource_index/packages
+[1.963s] copying resource/pub_initial_pose -> /home/nth/ros2_ws/install/pub_initial_pose/share/ament_index/resource_index/packages
+[1.963s] copying package.xml -> /home/nth/ros2_ws/install/pub_initial_pose/share/pub_initial_pose
+[1.963s] running install_egg_info
+[1.965s] Copying ../../build/pub_initial_pose/pub_initial_pose.egg-info to /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose-0.0.0-py3.8.egg-info
+[1.965s] running install_scripts
+[1.985s] Installing pub_initial_pose script to /home/nth/ros2_ws/install/pub_initial_pose/lib/pub_initial_pose
+[1.985s] writing list of installed files to '/home/nth/ros2_ws/build/pub_initial_pose/install.log'
+[2.027s] Invoked command in '/home/nth/ros2_ws/src/pub_initial_pose' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pub_initial_pose build --build-base /home/nth/ros2_ws/build/pub_initial_pose/build install --prefix /home/nth/ros2_ws/install/pub_initial_pose --record /home/nth/ros2_ws/build/pub_initial_pose/install.log --single-version-externally-managed

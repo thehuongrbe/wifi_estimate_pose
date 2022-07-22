@@ -1,0 +1,6 @@
+Warning: 'classifiers' should be a list, got type 'tuple'
+  File "/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi/__init__.py", line 185
+    'mac': self.getMacAddress(raw_cell)
+    ^
+SyntaxError: invalid syntax
+

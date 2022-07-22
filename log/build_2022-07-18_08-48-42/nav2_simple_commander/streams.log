@@ -1,0 +1,77 @@
+[0.577s] Invoking command in '/home/nth/ros2_ws/src/navigation2/nav2_simple_commander': AMENT_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nth/ros2_ws/install/nav2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages:/home/nth/ros2_ws/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/nav2_simple_commander build --build-base /home/nth/ros2_ws/build/nav2_simple_commander/build install --prefix /home/nth/ros2_ws/install/nav2_simple_commander --record /home/nth/ros2_ws/build/nav2_simple_commander/install.log --single-version-externally-managed
+[0.750s] running egg_info
+[0.751s] creating ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info
+[0.751s] writing ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/PKG-INFO
+[0.752s] writing dependency_links to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/dependency_links.txt
+[0.752s] writing entry points to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/entry_points.txt
+[0.752s] writing requirements to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/requires.txt
+[0.752s] writing top-level names to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/top_level.txt
+[0.753s] writing manifest file '../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.783s] reading manifest file '../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.784s] writing manifest file '../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.784s] running build
+[0.784s] running build_py
+[0.785s] creating /home/nth/ros2_ws/build/nav2_simple_commander/build
+[0.785s] creating /home/nth/ros2_ws/build/nav2_simple_commander/build/lib
+[0.785s] creating /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.785s] copying nav2_simple_commander/robot_navigator.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.785s] copying nav2_simple_commander/example_nav_to_pose.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.785s] copying nav2_simple_commander/demo_inspection.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/example_follow_path.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/demo_picking.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/demo_security.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/example_nav_through_poses.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/__init__.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/demo_recoveries.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.786s] copying nav2_simple_commander/example_waypoint_follower.py -> /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander
+[0.787s] running install
+[0.788s] running install_lib
+[0.789s] creating /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/robot_navigator.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_nav_to_pose.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_inspection.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_follow_path.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_picking.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_security.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_nav_through_poses.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.789s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/__init__.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.790s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/demo_recoveries.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.790s] copying /home/nth/ros2_ws/build/nav2_simple_commander/build/lib/nav2_simple_commander/example_waypoint_follower.py -> /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander
+[0.790s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/robot_navigator.py to robot_navigator.cpython-38.pyc
+[0.793s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_nav_to_pose.py to example_nav_to_pose.cpython-38.pyc
+[0.794s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_inspection.py to demo_inspection.cpython-38.pyc
+[0.794s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_follow_path.py to example_follow_path.cpython-38.pyc
+[0.795s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_picking.py to demo_picking.cpython-38.pyc
+[0.795s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_security.py to demo_security.cpython-38.pyc
+[0.796s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_nav_through_poses.py to example_nav_through_poses.cpython-38.pyc
+[0.797s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/__init__.py to __init__.cpython-38.pyc
+[0.797s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/demo_recoveries.py to demo_recoveries.cpython-38.pyc
+[0.797s] byte-compiling /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander/example_waypoint_follower.py to example_waypoint_follower.cpython-38.pyc
+[0.798s] running install_data
+[0.798s] creating /home/nth/ros2_ws/install/nav2_simple_commander/share/ament_index
+[0.799s] creating /home/nth/ros2_ws/install/nav2_simple_commander/share/ament_index/resource_index
+[0.799s] creating /home/nth/ros2_ws/install/nav2_simple_commander/share/ament_index/resource_index/packages
+[0.799s] copying resource/nav2_simple_commander -> /home/nth/ros2_ws/install/nav2_simple_commander/share/ament_index/resource_index/packages
+[0.799s] copying package.xml -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.799s] copying launch/waypoint_follower_example_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.799s] copying launch/recoveries_example_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.799s] copying launch/security_demo_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.800s] copying launch/follow_path_example_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.800s] copying launch/warehouse.world -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.800s] copying launch/nav_to_pose_example_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.800s] copying launch/nav_through_poses_example_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.800s] copying launch/inspection_demo_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.801s] copying launch/picking_demo_launch.py -> /home/nth/ros2_ws/install/nav2_simple_commander/share/nav2_simple_commander
+[0.801s] running install_egg_info
+[0.802s] Copying ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info to /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander-1.0.0-py3.8.egg-info
+[0.803s] running install_scripts
+[0.819s] Installing demo_inspection script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.819s] Installing demo_picking script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.819s] Installing demo_recoveries script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.819s] Installing demo_security script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.819s] Installing example_follow_path script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.820s] Installing example_nav_through_poses script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.820s] Installing example_nav_to_pose script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.820s] Installing example_waypoint_follower script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.820s] writing list of installed files to '/home/nth/ros2_ws/build/nav2_simple_commander/install.log'
+[0.849s] Invoked command in '/home/nth/ros2_ws/src/navigation2/nav2_simple_commander' returned '0': AMENT_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nth/ros2_ws/install/nav2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages:/home/nth/ros2_ws/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/nav2_simple_commander build --build-base /home/nth/ros2_ws/build/nav2_simple_commander/build install --prefix /home/nth/ros2_ws/install/nav2_simple_commander --record /home/nth/ros2_ws/build/nav2_simple_commander/install.log --single-version-externally-managed

@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target action_client[0m
+[35m[1mScanning dependencies of target boi_so_server[0m
+[35m[1mScanning dependencies of target fibonacci_action_server[0m
+[35m[1mScanning dependencies of target boi_so_client[0m
+[35m[1mScanning dependencies of target action_server[0m
+[35m[1mScanning dependencies of target fibonacci_action_client[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/boi_so_server.dir/rclcpp_components/node_main_boi_so_server.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/fibonacci_action_server.dir/rclcpp_components/node_main_fibonacci_action_server.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/fibonacci_action_client.dir/rclcpp_components/node_main_fibonacci_action_client.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/boi_so_client.dir/rclcpp_components/node_main_boi_so_client.cpp.o[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/action_client.dir/src/fibonacci_action_client.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/action_client.dir/src/boi_so_client.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/action_server.dir/src/fibonacci_action_server.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/action_server.dir/src/boi_so_server.cpp.o[0m
+[ 64%] [32m[1mLinking CXX executable fibonacci_action_server[0m
+[ 64%] Built target fibonacci_action_server
+[ 71%] [32m[1mLinking CXX executable fibonacci_action_client[0m
+[ 71%] Built target fibonacci_action_client
+[ 78%] [32m[1mLinking CXX executable boi_so_client[0m
+[ 85%] [32m[1mLinking CXX executable boi_so_server[0m
+[ 85%] Built target boi_so_client
+[ 85%] Built target boi_so_server
+[ 92%] [32m[1mLinking CXX shared library libaction_client.so[0m
+[ 92%] Built target action_client
+[100%] [32m[1mLinking CXX shared library libaction_server.so[0m
+[100%] Built target action_server

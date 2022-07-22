@@ -1,0 +1,50 @@
+[0.261s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake /home/nth/ros2_ws/src/tf2_cpp -DCMAKE_INSTALL_PREFIX=/home/nth/ros2_ws/install/tf2_cpp
+[0.317s] -- The C compiler identification is GNU 9.4.0
+[0.367s] -- The CXX compiler identification is GNU 9.4.0
+[0.375s] -- Check for working C compiler: /usr/bin/cc
+[0.446s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.447s] -- Detecting C compiler ABI info
+[0.518s] -- Detecting C compiler ABI info - done
+[0.528s] -- Detecting C compile features
+[0.528s] -- Detecting C compile features - done
+[0.530s] -- Check for working CXX compiler: /usr/bin/c++
+[0.608s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.609s] -- Detecting CXX compiler ABI info
+[0.692s] -- Detecting CXX compiler ABI info - done
+[0.702s] -- Detecting CXX compile features
+[0.703s] -- Detecting CXX compile features - done
+[0.707s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.737s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.737s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.020s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.032s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.141s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.173s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.252s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.324s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[1.376s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.379s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.379s] -- Looking for pthread.h
+[1.453s] -- Looking for pthread.h - found
+[1.453s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.529s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.529s] -- Looking for pthread_create in pthreads
+[1.591s] -- Looking for pthread_create in pthreads - not found
+[1.592s] -- Looking for pthread_create in pthread
+[1.660s] -- Looking for pthread_create in pthread - found
+[1.661s] -- Found Threads: TRUE  
+[1.794s] -- Found tf2: 0.13.13 (/opt/ros/foxy/share/tf2/cmake)
+[1.814s] -- Found tf2_ros: 0.13.13 (/opt/ros/foxy/share/tf2_ros/cmake)
+[2.112s] -- Found turtlesim: 1.2.5 (/opt/ros/foxy/share/turtlesim/cmake)
+[2.163s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.263s] CMake Error at /opt/ros/foxy/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake:77 (message):
+[2.263s]   ament_target_dependencies() the passed package name
+[2.263s]   'turtle_tf2_broadcaster' was not found before
+[2.263s] Call Stack (most recent call first):
+[2.263s]   CMakeLists.txt:44 (ament_target_dependencies)
+[2.264s] 
+[2.264s] 
+[2.265s] -- Configuring incomplete, errors occurred!
+[2.265s] See also "/home/nth/ros2_ws/build/tf2_cpp/CMakeFiles/CMakeOutput.log".
+[2.265s] See also "/home/nth/ros2_ws/build/tf2_cpp/CMakeFiles/CMakeError.log".
+[2.278s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake /home/nth/ros2_ws/src/tf2_cpp -DCMAKE_INSTALL_PREFIX=/home/nth/ros2_ws/install/tf2_cpp

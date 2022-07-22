@@ -1,0 +1,3 @@
+[console_scripts]
+pub_initial_pose = pub_initial_pose.publisher:main
+

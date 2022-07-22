@@ -1,0 +1,21 @@
+[0.805s] Invoking command in '/home/nth/ros2_ws/src/turtlesim_test': PYTHONPATH=/home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/nth/ros2_ws/build/turtlesim_test/build install --prefix /home/nth/ros2_ws/install/turtlesim_test --record /home/nth/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed
+[1.032s] running egg_info
+[1.033s] writing ../../build/turtlesim_test/turtlesim_test.egg-info/PKG-INFO
+[1.033s] writing dependency_links to ../../build/turtlesim_test/turtlesim_test.egg-info/dependency_links.txt
+[1.033s] writing entry points to ../../build/turtlesim_test/turtlesim_test.egg-info/entry_points.txt
+[1.033s] writing requirements to ../../build/turtlesim_test/turtlesim_test.egg-info/requires.txt
+[1.033s] writing top-level names to ../../build/turtlesim_test/turtlesim_test.egg-info/top_level.txt
+[1.076s] reading manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[1.077s] writing manifest file '../../build/turtlesim_test/turtlesim_test.egg-info/SOURCES.txt'
+[1.077s] running build
+[1.077s] running build_py
+[1.078s] running install
+[1.079s] running install_lib
+[1.080s] running install_data
+[1.081s] running install_egg_info
+[1.082s] removing '/home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test-0.0.0-py3.8.egg-info' (and everything under it)
+[1.083s] Copying ../../build/turtlesim_test/turtlesim_test.egg-info to /home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages/turtlesim_test-0.0.0-py3.8.egg-info
+[1.083s] running install_scripts
+[1.101s] Installing turlesim_pub script to /home/nth/ros2_ws/install/turtlesim_test/lib/turtlesim_test
+[1.101s] writing list of installed files to '/home/nth/ros2_ws/build/turtlesim_test/install.log'
+[1.123s] Invoked command in '/home/nth/ros2_ws/src/turtlesim_test' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/turtlesim_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_test build --build-base /home/nth/ros2_ws/build/turtlesim_test/build install --prefix /home/nth/ros2_ws/install/turtlesim_test --record /home/nth/ros2_ws/build/turtlesim_test/install.log --single-version-externally-managed

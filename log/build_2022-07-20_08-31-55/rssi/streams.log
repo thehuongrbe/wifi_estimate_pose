@@ -1,0 +1,18 @@
+[1.119s] Invoking command in '/home/nth/ros2_ws/src/rssi_module': PYTHONPATH=/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rssi build --build-base /home/nth/ros2_ws/build/rssi/build install --prefix /home/nth/ros2_ws/install/rssi --record /home/nth/ros2_ws/build/rssi/install.log --single-version-externally-managed
+[1.409s] Warning: 'classifiers' should be a list, got type 'tuple'
+[1.409s] running egg_info
+[1.409s] writing ../../build/rssi/rssi.egg-info/PKG-INFO
+[1.409s] writing dependency_links to ../../build/rssi/rssi.egg-info/dependency_links.txt
+[1.409s] writing top-level names to ../../build/rssi/rssi.egg-info/top_level.txt
+[1.446s] reading manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+[1.448s] writing manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+[1.448s] running build
+[1.448s] running build_py
+[1.448s] running install
+[1.451s] running install_lib
+[1.453s] running install_egg_info
+[1.453s] removing '/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi-1.0.2-py3.8.egg-info' (and everything under it)
+[1.453s] Copying ../../build/rssi/rssi.egg-info to /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi-1.0.2-py3.8.egg-info
+[1.453s] running install_scripts
+[1.478s] writing list of installed files to '/home/nth/ros2_ws/build/rssi/install.log'
+[1.541s] Invoked command in '/home/nth/ros2_ws/src/rssi_module' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rssi build --build-base /home/nth/ros2_ws/build/rssi/build install --prefix /home/nth/ros2_ws/install/rssi --record /home/nth/ros2_ws/build/rssi/install.log --single-version-externally-managed

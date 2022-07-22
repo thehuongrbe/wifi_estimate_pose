@@ -1,0 +1,21 @@
+[1.464s] Invoking command in '/home/nth/ros2_ws/src/pub_initial_pose': PYTHONPATH=/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pub_initial_pose build --build-base /home/nth/ros2_ws/build/pub_initial_pose/build install --prefix /home/nth/ros2_ws/install/pub_initial_pose --record /home/nth/ros2_ws/build/pub_initial_pose/install.log --single-version-externally-managed
+[1.689s] running egg_info
+[1.689s] writing ../../build/pub_initial_pose/pub_initial_pose.egg-info/PKG-INFO
+[1.689s] writing dependency_links to ../../build/pub_initial_pose/pub_initial_pose.egg-info/dependency_links.txt
+[1.690s] writing entry points to ../../build/pub_initial_pose/pub_initial_pose.egg-info/entry_points.txt
+[1.690s] writing requirements to ../../build/pub_initial_pose/pub_initial_pose.egg-info/requires.txt
+[1.690s] writing top-level names to ../../build/pub_initial_pose/pub_initial_pose.egg-info/top_level.txt
+[1.718s] reading manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[1.718s] writing manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[1.719s] running build
+[1.719s] running build_py
+[1.719s] running install
+[1.719s] running install_lib
+[1.719s] running install_data
+[1.719s] running install_egg_info
+[1.723s] removing '/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose-0.0.0-py3.8.egg-info' (and everything under it)
+[1.723s] Copying ../../build/pub_initial_pose/pub_initial_pose.egg-info to /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose-0.0.0-py3.8.egg-info
+[1.723s] running install_scripts
+[1.741s] Installing pub_initial_pose script to /home/nth/ros2_ws/install/pub_initial_pose/lib/pub_initial_pose
+[1.741s] writing list of installed files to '/home/nth/ros2_ws/build/pub_initial_pose/install.log'
+[1.800s] Invoked command in '/home/nth/ros2_ws/src/pub_initial_pose' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pub_initial_pose build --build-base /home/nth/ros2_ws/build/pub_initial_pose/build install --prefix /home/nth/ros2_ws/install/pub_initial_pose --record /home/nth/ros2_ws/build/pub_initial_pose/install.log --single-version-externally-managed

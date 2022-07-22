@@ -1,0 +1,3 @@
+[console_scripts]
+turlesim_pub = turtlesim_test.turtlesim_pub:main
+

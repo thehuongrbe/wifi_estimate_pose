@@ -1,0 +1,22 @@
+[1.870s] Invoking command in '/home/nth/ros2_ws/src/service_test': PYTHONPATH=/home/nth/ros2_ws/install/service_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/service_test build --build-base /home/nth/ros2_ws/build/service_test/build install --prefix /home/nth/ros2_ws/install/service_test --record /home/nth/ros2_ws/build/service_test/install.log --single-version-externally-managed
+[2.112s] running egg_info
+[2.112s] writing ../../build/service_test/service_test.egg-info/PKG-INFO
+[2.113s] writing dependency_links to ../../build/service_test/service_test.egg-info/dependency_links.txt
+[2.113s] writing entry points to ../../build/service_test/service_test.egg-info/entry_points.txt
+[2.113s] writing requirements to ../../build/service_test/service_test.egg-info/requires.txt
+[2.113s] writing top-level names to ../../build/service_test/service_test.egg-info/top_level.txt
+[2.147s] reading manifest file '../../build/service_test/service_test.egg-info/SOURCES.txt'
+[2.150s] writing manifest file '../../build/service_test/service_test.egg-info/SOURCES.txt'
+[2.150s] running build
+[2.150s] running build_py
+[2.150s] running install
+[2.151s] running install_lib
+[2.151s] running install_data
+[2.151s] running install_egg_info
+[2.152s] removing '/home/nth/ros2_ws/install/service_test/lib/python3.8/site-packages/service_test-0.0.0-py3.8.egg-info' (and everything under it)
+[2.152s] Copying ../../build/service_test/service_test.egg-info to /home/nth/ros2_ws/install/service_test/lib/python3.8/site-packages/service_test-0.0.0-py3.8.egg-info
+[2.152s] running install_scripts
+[2.169s] Installing client script to /home/nth/ros2_ws/install/service_test/lib/service_test
+[2.169s] Installing server script to /home/nth/ros2_ws/install/service_test/lib/service_test
+[2.169s] writing list of installed files to '/home/nth/ros2_ws/build/service_test/install.log'
+[2.238s] Invoked command in '/home/nth/ros2_ws/src/service_test' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/service_test/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/service_test build --build-base /home/nth/ros2_ws/build/service_test/build install --prefix /home/nth/ros2_ws/install/service_test --record /home/nth/ros2_ws/build/service_test/install.log --single-version-externally-managed

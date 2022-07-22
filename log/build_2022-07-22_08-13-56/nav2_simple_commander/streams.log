@@ -1,0 +1,28 @@
+[0.597s] Invoking command in '/home/nth/ros2_ws/src/navigation2/nav2_simple_commander': AMENT_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nth/ros2_ws/install/nav2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages:/home/nth/ros2_ws/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/nav2_simple_commander build --build-base /home/nth/ros2_ws/build/nav2_simple_commander/build install --prefix /home/nth/ros2_ws/install/nav2_simple_commander --record /home/nth/ros2_ws/build/nav2_simple_commander/install.log --single-version-externally-managed
+[0.807s] running egg_info
+[0.807s] writing ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/PKG-INFO
+[0.807s] writing dependency_links to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/dependency_links.txt
+[0.807s] writing entry points to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/entry_points.txt
+[0.808s] writing requirements to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/requires.txt
+[0.808s] writing top-level names to ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/top_level.txt
+[0.837s] reading manifest file '../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.837s] writing manifest file '../../../build/nav2_simple_commander/nav2_simple_commander.egg-info/SOURCES.txt'
+[0.838s] running build
+[0.838s] running build_py
+[0.838s] running install
+[0.839s] running install_lib
+[0.840s] running install_data
+[0.840s] running install_egg_info
+[0.841s] removing '/home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander-1.0.0-py3.8.egg-info' (and everything under it)
+[0.841s] Copying ../../../build/nav2_simple_commander/nav2_simple_commander.egg-info to /home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages/nav2_simple_commander-1.0.0-py3.8.egg-info
+[0.842s] running install_scripts
+[0.858s] Installing demo_inspection script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing demo_picking script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing demo_recoveries script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing demo_security script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing example_follow_path script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing example_nav_through_poses script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing example_nav_to_pose script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] Installing example_waypoint_follower script to /home/nth/ros2_ws/install/nav2_simple_commander/lib/nav2_simple_commander
+[0.858s] writing list of installed files to '/home/nth/ros2_ws/build/nav2_simple_commander/install.log'
+[0.878s] Invoked command in '/home/nth/ros2_ws/src/navigation2/nav2_simple_commander' returned '0': AMENT_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nth/ros2_ws/install/nav2_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/nth/ros2_ws/install/nav2_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nth/ros2_ws/install/nav2_simple_commander/lib/python3.8/site-packages:/home/nth/ros2_ws/install/nav2_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/nav2_simple_commander build --build-base /home/nth/ros2_ws/build/nav2_simple_commander/build install --prefix /home/nth/ros2_ws/install/nav2_simple_commander --record /home/nth/ros2_ws/build/nav2_simple_commander/install.log --single-version-externally-managed

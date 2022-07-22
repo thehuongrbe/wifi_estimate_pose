@@ -1,0 +1,4 @@
+action_cpp::FibonacciActionServer;lib/libaction_server.so
+action_cpp::BoisoActionServer;lib/libaction_server.so
+action_cpp::FibonacciActionClient;lib/libaction_client.so
+action_cpp::BoisoActionClient;lib/libaction_client.so

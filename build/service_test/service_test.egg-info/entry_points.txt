@@ -1,0 +1,4 @@
+[console_scripts]
+client = service_test.service_client:main
+server = service_test.service_server:main
+

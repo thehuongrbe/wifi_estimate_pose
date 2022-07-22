@@ -1,0 +1,59 @@
+[0.260s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16
+[0.288s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.311s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.477s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.480s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.621s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.710s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.747s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[0.750s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.881s] -- Found tf2: 0.13.13 (/opt/ros/foxy/share/tf2/cmake)
+[0.886s] -- Found tf2_ros: 0.13.13 (/opt/ros/foxy/share/tf2_ros/cmake)
+[1.130s] -- Found turtlesim: 1.2.5 (/opt/ros/foxy/share/turtlesim/cmake)
+[1.168s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.234s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.235s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.235s] -- Configured cppcheck include dirs: 
+[1.235s] -- Configured cppcheck exclude dirs and/or files: 
+[1.235s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.235s] -- Configured cpplint exclude dirs and/or files: 
+[1.236s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.236s] -- Added test 'lint_cmake' to check CMake code style
+[1.236s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.237s] -- Added test 'uncrustify' to check C / C++ code style
+[1.237s] -- Configured uncrustify additional arguments: 
+[1.237s] -- Added test 'xmllint' to check XML markup files
+[1.239s] -- Configuring done
+[1.256s] -- Generating done
+[1.258s] -- Build files have been written to: /home/nth/ros2_ws/build/tf2_cpp
+[1.284s] [35m[1mScanning dependencies of target turtle_tf2_listener[0m
+[1.303s] [ 33%] Built target tf2_broadcaster
+[1.304s] [ 66%] Built target turtle_tf2
+[1.320s] [ 83%] [32mBuilding CXX object CMakeFiles/turtle_tf2_listener.dir/src/turtle_tf2_listener.cpp.o[0m
+[4.236s] [100%] [32m[1mLinking CXX executable turtle_tf2_listener[0m
+[4.396s] [100%] Built target turtle_tf2_listener
+[4.409s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16
+[4.440s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/nth/ros2_ws/build/tf2_cpp
+[4.448s] -- Install configuration: ""
+[4.448s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/turtle_tf2
+[4.448s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/turtle_tf2_listener
+[4.449s] -- Set runtime path of "/home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/turtle_tf2_listener" to ""
+[4.449s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/tf2_broadcaster
+[4.449s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/launch
+[4.449s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/launch/turtle_tf2_demo.launch.py
+[4.449s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/ament_index/resource_index/package_run_dependencies/tf2_cpp
+[4.449s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/share/ament_index/resource_index/parent_prefix_path/tf2_cpp
+[4.450s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/ament_prefix_path.sh
+[4.450s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/ament_prefix_path.dsv
+[4.450s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/path.sh
+[4.450s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/path.dsv
+[4.450s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.bash
+[4.450s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.sh
+[4.451s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.zsh
+[4.451s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.dsv
+[4.451s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/package.dsv
+[4.451s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/ament_index/resource_index/packages/tf2_cpp
+[4.451s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/cmake/tf2_cppConfig.cmake
+[4.451s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/cmake/tf2_cppConfig-version.cmake
+[4.451s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/package.xml
+[4.452s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/nth/ros2_ws/build/tf2_cpp

@@ -1,0 +1,23 @@
+running egg_info
+creating ../../build/rssi/rssi.egg-info
+writing ../../build/rssi/rssi.egg-info/PKG-INFO
+writing dependency_links to ../../build/rssi/rssi.egg-info/dependency_links.txt
+writing top-level names to ../../build/rssi/rssi.egg-info/top_level.txt
+writing manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+reading manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+writing manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nth/ros2_ws/build/rssi/build
+creating /home/nth/ros2_ws/build/rssi/build/lib
+creating /home/nth/ros2_ws/build/rssi/build/lib/rssi
+copying rssi/__init__.py -> /home/nth/ros2_ws/build/rssi/build/lib/rssi
+running install
+running install_lib
+creating /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi
+copying /home/nth/ros2_ws/build/rssi/build/lib/rssi/__init__.py -> /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi
+byte-compiling /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi/__init__.py to __init__.cpython-38.pyc
+running install_egg_info
+Copying ../../build/rssi/rssi.egg-info to /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi-1.0.2-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/nth/ros2_ws/build/rssi/install.log'

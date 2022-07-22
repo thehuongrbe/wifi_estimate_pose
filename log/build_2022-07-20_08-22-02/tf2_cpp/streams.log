@@ -1,0 +1,28 @@
+[0.866s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/ros2_ws/install/pub_initial_pose:/home/nth/ros2_ws/install/nav2_simple_commander:/home/nth/ros2_ws/install/nav2_gazebo_spawner:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_simple_commander:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/home/nth/rtcamr_ws/install/turtlebot3_teleop:/home/nth/rtcamr_ws/install/turtlebot3_example:/home/nth/rtcamr_ws/install/nav2_simple_commander:/home/nth/rtcamr_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16
+[0.934s] [100%] Built target turtle_tf2_listener
+[0.934s] [100%] Built target tf2_broadcaster
+[0.934s] [100%] Built target turtle_tf2
+[1.095s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/ros2_ws/install/pub_initial_pose:/home/nth/ros2_ws/install/nav2_simple_commander:/home/nth/ros2_ws/install/nav2_gazebo_spawner:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_simple_commander:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/home/nth/rtcamr_ws/install/turtlebot3_teleop:/home/nth/rtcamr_ws/install/turtlebot3_example:/home/nth/rtcamr_ws/install/nav2_simple_commander:/home/nth/rtcamr_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16
+[1.169s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/ros2_ws/install/pub_initial_pose:/home/nth/ros2_ws/install/nav2_simple_commander:/home/nth/ros2_ws/install/nav2_gazebo_spawner:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_simple_commander:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/home/nth/rtcamr_ws/install/turtlebot3_teleop:/home/nth/rtcamr_ws/install/turtlebot3_example:/home/nth/rtcamr_ws/install/nav2_simple_commander:/home/nth/rtcamr_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/nth/ros2_ws/build/tf2_cpp
+[1.174s] -- Install configuration: ""
+[1.174s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/turtle_tf2
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/turtle_tf2_listener
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/lib/tf2_cpp/tf2_broadcaster
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/launch
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/launch/turtle_tf2_demo.launch.py
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/ament_index/resource_index/package_run_dependencies/tf2_cpp
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/ament_index/resource_index/parent_prefix_path/tf2_cpp
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/ament_prefix_path.sh
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/ament_prefix_path.dsv
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/path.sh
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/environment/path.dsv
+[1.175s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.bash
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.sh
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.zsh
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/local_setup.dsv
+[1.176s] -- Installing: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/package.dsv
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/ament_index/resource_index/packages/tf2_cpp
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/cmake/tf2_cppConfig.cmake
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/cmake/tf2_cppConfig-version.cmake
+[1.176s] -- Up-to-date: /home/nth/ros2_ws/install/tf2_cpp/share/tf2_cpp/package.xml
+[1.197s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/ros2_ws/install/pub_initial_pose:/home/nth/ros2_ws/install/nav2_simple_commander:/home/nth/ros2_ws/install/nav2_gazebo_spawner:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_simple_commander:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/home/nth/rtcamr_ws/install/turtlebot3_teleop:/home/nth/rtcamr_ws/install/turtlebot3_example:/home/nth/rtcamr_ws/install/nav2_simple_commander:/home/nth/rtcamr_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/nth/ros2_ws/build/tf2_cpp

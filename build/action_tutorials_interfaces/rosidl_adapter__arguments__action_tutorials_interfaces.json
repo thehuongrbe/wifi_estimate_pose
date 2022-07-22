@@ -1,0 +1,7 @@
+{
+  "package_name": "action_tutorials_interfaces",
+  "non_idl_tuples": [
+    "/home/nth/ros2_ws/src/action_tutorials_interfaces:action/Fibonacci.action",
+    "/home/nth/ros2_ws/src/action_tutorials_interfaces:action/Boiso.action"
+  ]
+}

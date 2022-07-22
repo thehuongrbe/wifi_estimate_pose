@@ -1,0 +1,16 @@
+[0.277s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16
+[0.318s] [35m[1mScanning dependencies of target turtle_tf2[0m
+[0.341s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_tf2.dir/src/turtle_tf2.cpp.o[0m
+[1.499s] [01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:[m[K In constructor ‘[01m[KFramePublisher::FramePublisher()[m[K’:
+[1.499s] [01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:14:36:[m[K [01;31m[Kerror: [m[K‘[01m[Kmake_uniquie[m[K’ is not a member of ‘[01m[Kstd[m[K’; did you mean ‘[01m[Kmake_unique[m[K’?
+[1.499s]    14 |             tf_broadcaster_ = std::[01;31m[Kmake_uniquie[m[K<tf2_ros::TransformBoardcaster>(*this);
+[1.499s]       |                                    [01;31m[K^~~~~~~~~~~~[m[K
+[1.499s]       |                                    [32m[Kmake_unique[m[K
+[1.499s] [01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:14:58:[m[K [01;31m[Kerror: [m[K‘[01m[KTransformBoardcaster[m[K’ is not a member of ‘[01m[Ktf2_ros[m[K’; did you mean ‘[01m[KTransformBroadcaster[m[K’?
+[1.499s]    14 |             tf_broadcaster_ = std::make_uniquie<tf2_ros::[01;31m[KTransformBoardcaster[m[K>(*this);
+[1.499s]       |                                                          [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+[1.499s]       |                                                          [32m[KTransformBroadcaster[m[K
+[2.656s] make[2]: *** [CMakeFiles/turtle_tf2.dir/build.make:63: CMakeFiles/turtle_tf2.dir/src/turtle_tf2.cpp.o] Error 1
+[2.657s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/turtle_tf2.dir/all] Error 2
+[2.657s] make: *** [Makefile:141: all] Error 2
+[2.661s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16

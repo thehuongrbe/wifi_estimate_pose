@@ -1,0 +1,28 @@
+[0.260s] Invoking command in '/home/nth/ros2_ws/build/tf2_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16
+[0.284s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.306s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.478s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.481s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.597s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.673s] -- Configuring incomplete, errors occurred!
+[0.673s] See also "/home/nth/ros2_ws/build/tf2_cpp/CMakeFiles/CMakeOutput.log".
+[0.673s] See also "/home/nth/ros2_ws/build/tf2_cpp/CMakeFiles/CMakeError.log".
+[0.673s] CMake Error at CMakeLists.txt:18 (find_package):
+[0.673s]   By not providing "Findturtle_tf2.cmake" in CMAKE_MODULE_PATH this project
+[0.673s]   has asked CMake to find a package configuration file provided by
+[0.673s]   "turtle_tf2", but CMake did not find one.
+[0.674s] 
+[0.674s]   Could not find a package configuration file provided by "turtle_tf2" with
+[0.674s]   any of the following names:
+[0.674s] 
+[0.674s]     turtle_tf2Config.cmake
+[0.674s]     turtle_tf2-config.cmake
+[0.674s] 
+[0.674s]   Add the installation prefix of "turtle_tf2" to CMAKE_PREFIX_PATH or set
+[0.674s]   "turtle_tf2_DIR" to a directory containing one of the above files.  If
+[0.674s]   "turtle_tf2" provides a separate development package or SDK, be sure it has
+[0.675s]   been installed.
+[0.675s] 
+[0.675s] 
+[0.678s] make: *** [Makefile:266: cmake_check_build_system] Error 1
+[0.689s] Invoked command in '/home/nth/ros2_ws/build/tf2_cpp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/tf2_cpp -- -j16 -l16

@@ -1,0 +1,20 @@
+[0.062s] Invoking command in '/home/nth/ros2_ws/build/ros2_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/ros2_tutorial -- -j16 -l16
+[0.481s] Invoked command in '/home/nth/ros2_ws/build/ros2_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/nth/ros2_ws/build/ros2_tutorial -- -j16 -l16
+[0.518s] Invoking command in '/home/nth/ros2_ws/build/ros2_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/nth/ros2_ws/build/ros2_tutorial
+[0.527s] -- Install configuration: ""
+[0.527s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ament_index/resource_index/package_run_dependencies/ros2_tutorial
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ament_index/resource_index/parent_prefix_path/ros2_tutorial
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/ament_prefix_path.sh
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/ament_prefix_path.dsv
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/path.sh
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/environment/path.dsv
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.bash
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.sh
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.zsh
+[0.528s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/local_setup.dsv
+[0.529s] -- Installing: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/package.dsv
+[0.529s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ament_index/resource_index/packages/ros2_tutorial
+[0.529s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/cmake/ros2_tutorialConfig.cmake
+[0.529s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/cmake/ros2_tutorialConfig-version.cmake
+[0.529s] -- Up-to-date: /home/nth/ros2_ws/install/ros2_tutorial/share/ros2_tutorial/package.xml
+[0.530s] Invoked command in '/home/nth/ros2_ws/build/ros2_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nth/ros2_ws/install/turtlesim_test:/home/nth/ros2_ws/install/service_test:/home/nth/rtc_ws/install/turtlebot3_teleop:/home/nth/rtc_ws/install/turtlebot3_example:/home/nth/rtc_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/nth/ros2_ws/build/ros2_tutorial

@@ -1,0 +1,35 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/turtle_tf2.dir/src/turtle_tf2.cpp.o[0m
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:40:17:[m[K [01;31m[Kerror: [m[K‘[01m[KSubcription[m[K’ in namespace ‘[01m[Krclcpp[m[K’ does not name a template type; did you mean ‘[01m[KSubscription[m[K’?
+   40 |         rclcpp::[01;31m[KSubcription[m[K<turtlesim::msg::Pose>::SharedPtr subcription_;
+      |                 [01;31m[K^~~~~~~~~~~[m[K
+      |                 [32m[KSubscription[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:[m[K In constructor ‘[01m[KFramePublisher::FramePublisher()[m[K’:
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:14:36:[m[K [01;31m[Kerror: [m[K‘[01m[Kmake_uniquie[m[K’ is not a member of ‘[01m[Kstd[m[K’; did you mean ‘[01m[Kmake_unique[m[K’?
+   14 |             tf_broadcaster_ = std::[01;31m[Kmake_uniquie[m[K<tf2_ros::TransformBoardcaster>(*this);
+      |                                    [01;31m[K^~~~~~~~~~~~[m[K
+      |                                    [32m[Kmake_unique[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:14:58:[m[K [01;31m[Kerror: [m[K‘[01m[KTransformBoardcaster[m[K’ is not a member of ‘[01m[Ktf2_ros[m[K’; did you mean ‘[01m[KTransformBroadcaster[m[K’?
+   14 |             tf_broadcaster_ = std::make_uniquie<tf2_ros::[01;31m[KTransformBoardcaster[m[K>(*this);
+      |                                                          [01;31m[K^~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                          [32m[KTransformBroadcaster[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:18:13:[m[K [01;31m[Kerror: [m[K‘[01m[Ksubcription_[m[K’ was not declared in this scope; did you mean ‘[01m[Krcl_subscription_t[m[K’?
+   18 |             [01;31m[Ksubcription_[m[K = this->create_subcription<turtlesim::msg::Pose>(
+      |             [01;31m[K^~~~~~~~~~~~[m[K
+      |             [32m[Krcl_subscription_t[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:18:34:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass FramePublisher[m[K’ has no member named ‘[01m[Kcreate_subcription[m[K’; did you mean ‘[01m[Kcreate_subscription[m[K’?
+   18 |             subcription_ = this->[01;31m[Kcreate_subcription[m[K<turtlesim::msg::Pose>(
+      |                                  [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+      |                                  [32m[Kcreate_subscription[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:18:73:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+   18 |             subcription_ = this->create_subcription<turtlesim::msg::Pose[01;31m[K>[m[K(
+      |                                                                         [01;31m[K^[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:19:17:[m[K [01;35m[Kwarning: [m[Kleft operand of comma operator has no effect [[01;35m[K-Wunused-value[m[K]
+   19 |                 [01;35m[Ktopic_name[m[K,10, std::bind(&FramePublisher::handle_turtle_pose, this, _1)
+      |                 [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/nth/ros2_ws/src/tf2_cpp/src/turtle_tf2.cpp:19:87:[m[K [01;35m[Kwarning: [m[Kright operand of comma operator has no effect [[01;35m[K-Wunused-value[m[K]
+   19 | e,10, std::bind(&FramePublisher::handle_turtle_pose, this, _1[01;35m[K)[m[K
+      |                                                              [01;35m[K^[m[K
+
+make[2]: *** [CMakeFiles/turtle_tf2.dir/build.make:63: CMakeFiles/turtle_tf2.dir/src/turtle_tf2.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/turtle_tf2.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,7 @@
+README.md
+setup.py
+../../build/rssi/rssi.egg-info/PKG-INFO
+../../build/rssi/rssi.egg-info/SOURCES.txt
+../../build/rssi/rssi.egg-info/dependency_links.txt
+../../build/rssi/rssi.egg-info/top_level.txt
+rssi/__init__.py

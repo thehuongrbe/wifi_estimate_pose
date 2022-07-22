@@ -1,0 +1,15 @@
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/install/strip.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/install/local.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/boi_so_server.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/action_cpp_uninstall.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/action_server.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/fibonacci_action_server.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/action_client.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/fibonacci_action_client.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/boi_so_client.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/uninstall.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/test.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/edit_cache.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/rebuild_cache.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/list_install_components.dir
+/home/nth/ros2_ws/build/action_cpp/CMakeFiles/install.dir

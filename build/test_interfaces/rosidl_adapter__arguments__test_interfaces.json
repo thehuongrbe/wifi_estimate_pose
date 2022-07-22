@@ -1,0 +1,6 @@
+{
+  "package_name": "test_interfaces",
+  "non_idl_tuples": [
+    "/home/nth/ros2_ws/src/test_interfaces:srv/SumInt.srv"
+  ]
+}

@@ -1,0 +1,25 @@
+[1.767s] Invoking command in '/home/nth/ros2_ws/src/pub_initial_pose': PYTHONPATH=/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pub_initial_pose build --build-base /home/nth/ros2_ws/build/pub_initial_pose/build install --prefix /home/nth/ros2_ws/install/pub_initial_pose --record /home/nth/ros2_ws/build/pub_initial_pose/install.log --single-version-externally-managed
+[2.055s] running egg_info
+[2.055s] writing ../../build/pub_initial_pose/pub_initial_pose.egg-info/PKG-INFO
+[2.056s] writing dependency_links to ../../build/pub_initial_pose/pub_initial_pose.egg-info/dependency_links.txt
+[2.056s] writing entry points to ../../build/pub_initial_pose/pub_initial_pose.egg-info/entry_points.txt
+[2.057s] writing requirements to ../../build/pub_initial_pose/pub_initial_pose.egg-info/requires.txt
+[2.057s] writing top-level names to ../../build/pub_initial_pose/pub_initial_pose.egg-info/top_level.txt
+[2.104s] reading manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[2.105s] writing manifest file '../../build/pub_initial_pose/pub_initial_pose.egg-info/SOURCES.txt'
+[2.105s] running build
+[2.106s] running build_py
+[2.106s] copying pub_initial_pose/publisher.py -> /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose
+[2.106s] running install
+[2.107s] running install_lib
+[2.110s] copying /home/nth/ros2_ws/build/pub_initial_pose/build/lib/pub_initial_pose/publisher.py -> /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose
+[2.110s] byte-compiling /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose/publisher.py to publisher.cpython-38.pyc
+[2.110s] running install_data
+[2.114s] Sorry: IndentationError: expected an indented block (publisher.py, line 31)
+[2.116s] running install_egg_info
+[2.116s] removing '/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose-0.0.0-py3.8.egg-info' (and everything under it)
+[2.116s] Copying ../../build/pub_initial_pose/pub_initial_pose.egg-info to /home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages/pub_initial_pose-0.0.0-py3.8.egg-info
+[2.117s] running install_scripts
+[2.141s] Installing pub_initial_pose script to /home/nth/ros2_ws/install/pub_initial_pose/lib/pub_initial_pose
+[2.141s] writing list of installed files to '/home/nth/ros2_ws/build/pub_initial_pose/install.log'
+[2.175s] Invoked command in '/home/nth/ros2_ws/src/pub_initial_pose' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/pub_initial_pose/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pub_initial_pose build --build-base /home/nth/ros2_ws/build/pub_initial_pose/build install --prefix /home/nth/ros2_ws/install/pub_initial_pose --record /home/nth/ros2_ws/build/pub_initial_pose/install.log --single-version-externally-managed

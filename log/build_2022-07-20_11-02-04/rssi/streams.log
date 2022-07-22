@@ -1,0 +1,21 @@
+[1.104s] Invoking command in '/home/nth/ros2_ws/src/rssi_module': PYTHONPATH=/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rssi build --build-base /home/nth/ros2_ws/build/rssi/build install --prefix /home/nth/ros2_ws/install/rssi --record /home/nth/ros2_ws/build/rssi/install.log --single-version-externally-managed
+[1.307s] Warning: 'classifiers' should be a list, got type 'tuple'
+[1.312s] running egg_info
+[1.313s] writing ../../build/rssi/rssi.egg-info/PKG-INFO
+[1.313s] writing dependency_links to ../../build/rssi/rssi.egg-info/dependency_links.txt
+[1.315s] writing top-level names to ../../build/rssi/rssi.egg-info/top_level.txt
+[1.341s] reading manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+[1.342s] writing manifest file '../../build/rssi/rssi.egg-info/SOURCES.txt'
+[1.342s] running build
+[1.342s] running build_py
+[1.342s] copying rssi/__init__.py -> /home/nth/ros2_ws/build/rssi/build/lib/rssi
+[1.342s] running install
+[1.343s] running install_lib
+[1.343s] copying /home/nth/ros2_ws/build/rssi/build/lib/rssi/__init__.py -> /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi
+[1.344s] byte-compiling /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi/__init__.py to __init__.cpython-38.pyc
+[1.347s] running install_egg_info
+[1.347s] removing '/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi-1.0.2-py3.8.egg-info' (and everything under it)
+[1.347s] Copying ../../build/rssi/rssi.egg-info to /home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages/rssi-1.0.2-py3.8.egg-info
+[1.348s] running install_scripts
+[1.365s] writing list of installed files to '/home/nth/ros2_ws/build/rssi/install.log'
+[1.454s] Invoked command in '/home/nth/ros2_ws/src/rssi_module' returned '0': PYTHONPATH=/home/nth/ros2_ws/install/rssi/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rssi build --build-base /home/nth/ros2_ws/build/rssi/build install --prefix /home/nth/ros2_ws/install/rssi --record /home/nth/ros2_ws/build/rssi/install.log --single-version-externally-managed
